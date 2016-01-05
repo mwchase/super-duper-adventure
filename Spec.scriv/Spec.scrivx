@@ -1,8 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="iapetus" Modified="2016-01-05 12:58:09 -0500" ModID="34B26D7F-FEAC-47EA-BF57-C282727EF827">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="iapetus" Modified="2016-01-05 13:01:24 -0500" ModID="ADA111D2-6158-4A03-8A3B-757CD09DCDED">
     <Binder>
         <BinderItem ID="0" UUID="425FB658-619B-4EC6-A11A-F714C7690B8D" Type="DraftFolder" Created="2016-01-05 12:58:09 -0500" Modified="2016-01-05 12:58:09 -0500">
             <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>4</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="4" UUID="3C3D700E-4AEE-48C3-8396-DDDF15C35BDC" Type="Folder" Created="2016-01-05 13:00:11 -0500" Modified="2016-01-05 13:00:17 -0500">
+                    <Title>Super-Duper Adventure</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>5</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="5" UUID="918E9AEC-1036-4ACE-9763-BF8528A8D9B7" Type="Text" Created="2016-01-05 13:00:26 -0500" Modified="2016-01-05 13:01:24 -0500">
+                            <Title>Game Loop</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="BA46431D-4A95-4D71-9C75-9893D4F5DA88" Type="ResearchFolder" Created="2016-01-05 12:58:09 -0500" Modified="2016-01-05 12:58:09 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="8353F25B-96FC-466C-A719-806037E8FB46" Type="TrashFolder" Created="2016-01-05 12:58:09 -0500" Modified="2016-01-05 12:58:09 -0500">
+            <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
@@ -18,18 +60,6 @@
                     </TextSettings>
                 </BinderItem>
             </Children>
-        </BinderItem>
-        <BinderItem ID="1" UUID="BA46431D-4A95-4D71-9C75-9893D4F5DA88" Type="ResearchFolder" Created="2016-01-05 12:58:09 -0500" Modified="2016-01-05 12:58:09 -0500">
-            <Title>Research</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-        </BinderItem>
-        <BinderItem ID="2" UUID="8353F25B-96FC-466C-A719-806037E8FB46" Type="TrashFolder" Created="2016-01-05 12:58:09 -0500" Modified="2016-01-05 12:58:09 -0500">
-            <Title>Trash</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
         </BinderItem>
     </Binder>
     <Collections>
@@ -64,7 +94,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-01-05 12:58:08 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-01-05 12:58:08 -0500"></PreviousSession>
+        <PreviousSession Words="31" Characters="167" Date="2016-01-05 12:58:08 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
